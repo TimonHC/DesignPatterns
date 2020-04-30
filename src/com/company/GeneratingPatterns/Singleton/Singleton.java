@@ -1,4 +1,4 @@
-package com.company.GeneratingPatterns;
+package com.company.GeneratingPatterns.Singleton;
 
 public class Singleton {
     private static Singleton instance;
