@@ -1,10 +1,10 @@
 package com.company;
 
 import com.company.GeneratingPatterns.Singleton.Singleton;
-import com.company.StructuralPatterns.RoundHole;
-import com.company.StructuralPatterns.RoundPeg;
-import com.company.StructuralPatterns.SquarePeg;
-import com.company.StructuralPatterns.SquarePegAdapter;
+import com.company.StructuralPatterns.Round.RoundHole;
+import com.company.StructuralPatterns.Round.RoundPeg;
+import com.company.StructuralPatterns.Square.SquarePeg;
+import com.company.StructuralPatterns.Adapters.SquarePegAdapter;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.company.StructuralPatterns;
+package com.company.StructuralPatterns.Round;
 
 public class RoundHole {
     private double radius;

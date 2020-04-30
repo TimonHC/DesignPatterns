@@ -1,4 +1,4 @@
-package com.company.StructuralPatterns;
+package com.company.StructuralPatterns.Square;
 
 public class SquarePeg {
     private double width;

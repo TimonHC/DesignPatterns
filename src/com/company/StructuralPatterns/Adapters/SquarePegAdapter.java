@@ -1,4 +1,7 @@
-package com.company.StructuralPatterns;
+package com.company.StructuralPatterns.Adapters;
+
+import com.company.StructuralPatterns.Round.RoundPeg;
+import com.company.StructuralPatterns.Square.SquarePeg;
 
 public class SquarePegAdapter extends RoundPeg {
     private SquarePeg peg;
